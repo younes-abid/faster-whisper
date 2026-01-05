@@ -1,0 +1,16 @@
+read the transcript and make the corresponding .md for summerization wx-y-ar.md abd wx-y-en.md
+
+
+for wx-y I want you to generate  memory card
+it is wx-y-memory-ar.md and wx-y-memory-en.md
+
+here you put the information that i need to memorize by heart for the exam
+
+keep the memory short and good 
+keep the transcript summary nice and explanatory
+
+For key words for arabic keep the english word inbetween `()` so I can link the english word to the arabic one easily
+
+use the same files name by repacing x and y with corresponding week number and video number
+
+you find the transcript here: /home/younes/Desktop/Younes/github/faster-whisper/pmp_in_90_days/w1/2/w1-2_transcript.txt
